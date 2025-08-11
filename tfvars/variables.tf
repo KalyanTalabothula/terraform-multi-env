@@ -45,6 +45,9 @@ variable "ami_id" {
   description = "AMI ID of info RHEL9"
 }
 
+variable "instance_type" {
+  
+}
 
 # ec2 name = cart
 # ec2 name = roboshop-dev-cart
